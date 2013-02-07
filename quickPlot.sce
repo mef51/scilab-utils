@@ -27,6 +27,4 @@ a.y_label.font_size = 3;
 a.box = "on";
 
 xgrid();
-xlabel(_xLabel);
-ylabel(_yLabel);
-title(_title);
+xtitle(_title, _xLabel, _yLabel);
