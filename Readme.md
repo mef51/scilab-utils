@@ -6,6 +6,10 @@ I use it to make plots for my physics labs.
 
 I'll add any little scripts I write that help with my workflow.
 
+*Update:*
+[The IPython Notebook](http://ipython.org/notebook.html) is an alternative to using Scilab. The workflow is simpler,
+you learn python while using it, and the community is more alive. I still think making plots should be easier than this.
+
 ## quickPlot.sce
 Takes data in the form of a CSV and plots it.
 
